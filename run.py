@@ -1,3 +1,3 @@
-from icebreaker2.modulos import app
+from modulos import app
 
 app.run()
